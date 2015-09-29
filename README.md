@@ -1,1 +1,1 @@
-# Learn_J7
+This will have some hands-on on Java 7 APIs.
